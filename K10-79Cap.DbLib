@@ -1,0 +1,52 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Lab431_Oktava\Desktop\LezhnevV\testGOST\Libraries\CapGOST.xlsx;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=C:\Users\Lab431_Oktava\Desktop\LezhnevV\testGOST\Libraries\CapGOST.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Лист1$
+[Table1]
+SchemaName=
+TableName=Лист1$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=321|Library Ref0=77|Footprint Ref0=92|Library Path0=85|Footprint path0=99|Mounting0=75|Type0=77|Value0=52|Tolerance0=72|Voltage0=63|TCEgroup0=73|TU0=113|BOMformula0=166|F140=41|F150=41
+[Table2]
+SchemaName=
+TableName=Лист2$
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=К53-65 "Е"-32В-22мкФ±10% АЖЯР#673546#004ТУ0=321|F20=37|F30=200
+[FieldMap1]
+Options=FieldName=Лист1$.Part Number|TableNameOnly=Лист1$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Лист1$.Library Ref|TableNameOnly=Лист1$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Лист1$.Footprint Ref|TableNameOnly=Лист1$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Лист1$.Library Path|TableNameOnly=Лист1$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Лист1$.Value|TableNameOnly=Лист1$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Лист1$.TCEgroup|TableNameOnly=Лист1$|FieldNameOnly=TCEgroup|FieldType=1|ParameterName=TCEgroup|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
