@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Primitives xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Arcs />
+  <Tracks>
+    <Track X1="25196851" Y1="0" X2="25196855" Y2="6299217" Layer="60" Width="59055" />
+    <Track X1="0" Y1="0" X2="0" Y2="6299217" Layer="60" Width="59055" />
+    <Track X1="13779528" Y1="0" X2="13779528" Y2="6299213" Layer="60" Width="98425" />
+    <Track X1="0" Y1="1968504" X2="25196851" Y2="1968504" Layer="60" Width="98425" />
+    <Track X1="0" Y1="3937008" X2="25196851" Y2="3937008" Layer="60" Width="98425" />
+    <Track X1="0" Y1="6299213" X2="25196855" Y2="6299217" Layer="60" Width="59055" />
+    <Track X1="0" Y1="0" X2="25196851" Y2="0" Layer="60" Width="59055" />
+  </Tracks>
+  <Texts>
+    <Text X="14173229" Y="2362205" Italic="false" Size="5" Rot="0" Mir="false" TrueType="true" Font="GOST type B" Layer="60">
+      <Txt>Плата УНК-11</Txt>
+    </Text>
+    <Text X="14173229" Y="4330709" Italic="false" Size="5" Rot="0" Mir="false" TrueType="true" Font="GOST type B" Layer="60">
+      <Txt>Наименование</Txt>
+    </Text>
+    <Text X="14173229" Y="393701" Italic="false" Size="5" Rot="0" Mir="false" TrueType="true" Font="GOST type B" Layer="60">
+      <Txt>Плата УНК-12</Txt>
+    </Text>
+    <Text X="393701" Y="4330709" Italic="false" Size="5" Rot="0" Mir="false" TrueType="true" Font="GOST type B" Layer="60">
+      <Txt>Обозначение</Txt>
+    </Text>
+    <Text X="393701" Y="2362205" Italic="false" Size="5" Rot="0" Mir="false" TrueType="true" Font="GOST type B" Layer="60">
+      <Txt>РСАЛ.M.8695.01.00</Txt>
+    </Text>
+    <Text X="11023622" Y="393701" Italic="false" Size="5" Rot="0" Mir="false" TrueType="true" Font="GOST type B" Layer="60">
+      <Txt>-01</Txt>
+    </Text>
+  </Texts>
+  <Regions />
+  <Width>25196855</Width>
+  <Height>6299217</Height>
+</Primitives>
