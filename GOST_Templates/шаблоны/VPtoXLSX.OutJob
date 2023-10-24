@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=VPtoXLSX.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -34,7 +34,7 @@ OutputMedium3_Type=GeneratedFiles
 OutputMedium4=Video
 OutputMedium4_Type=Multimedia
 OutputType1=BOM_PartType
-OutputName1=Bill of Materials
+OutputName1=ÂÏ
 OutputCategory1=Report
 OutputDocumentPath1=
 OutputVariantName1=
@@ -48,7 +48,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=ColumnNameFormat
 Configuration1_Item1=CaptionAsName
 Configuration1_Name2=General
-Configuration1_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Lab431_Oktava\Desktop\LezhnevV\workprjcts\build-VP_merge-Desktop_Qt_5_12_12_MinGW_32_bit-Debug\ÂÏèçÁÓÌ.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Lab431_Oktava\Desktop\LezhnevV\testGOST\Libraries\GOST_Templates\øàáëîíû\ÂÏèçÁÓÌ.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name3=GroupOrder
 Configuration1_Item3=
 Configuration1_Name4=SortOrder
@@ -61,13 +61,13 @@ Configuration1_Item6=Designator=100|Part Number=152|StandartDoc=100|Manufacturer
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for Key_tester
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=VPtoXLSX.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -86,22 +86,22 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Lab431_Oktava\Desktop\LezhnevV\workprjcts\UPK_PPU2\Project Outputs for UPK_PPU2\
-ReleaseManaged3=1
-OutputBasePath3=Project Outputs for UPK_PPU2
+OutputFilePath3=C:\Users\Lab431_Oktava\Desktop\LezhnevV\workprjcts\Key_tester\.\
+ReleaseManaged3=0
+OutputBasePath3=.\
 OutputPathMedia3=
 OutputPathMediaValue3=
-OutputPathOutputer3=[Output Type]
+OutputPathOutputer3=[Output Custom]
 OutputPathOutputerPrefix3=
-OutputPathOutputerValue3=
+OutputPathOutputerValue3=ÂÏ â excel
 OutputFileName3=
-OutputFileNameMulti3=
+OutputFileNameMulti3==ProjectName
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for Key_tester
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -140,7 +140,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\Lab431_Oktava\Desktop\LezhnevV\workprjcts\UPK_PPU2\Project Outputs for UPK_PPU2\
+RelativeOutputPath3=C:\Users\Lab431_Oktava\Desktop\LezhnevV\workprjcts\Key_tester\.\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
