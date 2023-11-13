@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Lab431_O
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -26,6 +26,9 @@ TableName=Ћист1$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=198|Library Ref0=77|Footprint Ref0=99|Library Path0=84|Footprint path0=99|Type0=77|Value0=56|Tolerance0=73|Voltage0=63|TCEgroup0=74|TU0=114|BOAStxt0=287|Comment0=72|StandartDoc0=114|Manufacturer0=118| уда¬ходит0=82
 [Table2]
 SchemaName=
 TableName=Ћист2$
