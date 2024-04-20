@@ -152,10 +152,10 @@
   </template>
 
   <template name="А4_PE" width="210" height="297" active="false">
-    <line x1="20" y1="5" x2="20" y2="292" width="Basicline" />
-    <line x1="20" y1="292" x2="205" y2="292" width="Basicline" />
-    <line x1="205" y1="292" x2="205" y2="5" width="Basicline" />
-    <line x1="205" y1="5" x2="20" y2="5" width="Basicline" />
+	<line x1="20" y1="5" x2="20" y2="292" width="Basicline" />
+	<line x1="20" y1="292" x2="205" y2="292" width="Basicline" />
+	<line x1="205" y1="292" x2="205" y2="5" width="Basicline" />
+	<line x1="205" y1="5" x2="20" y2="5" width="Basicline" />
     <firstpage>
       <block name="Title_block_List1_TextDocuments" x1="210" y1="-297"/>
       <block name="Title_block_List1vp_TextDocuments" x1="210" y1="-252" ifvar="vp" ifvalue="1"/>
