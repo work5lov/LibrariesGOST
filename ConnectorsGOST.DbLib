@@ -40,3 +40,9 @@ Options=FieldName=Ëèñò1$.Library Ref|TableNameOnly=Ëèñò1$|FieldNameOnly=Library 
 Options=FieldName=Ëèñò1$.Footprint Ref|TableNameOnly=Ëèñò1$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
 Options=FieldName=Ëèñò1$.Library Path|TableNameOnly=Ëèñò1$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Ëèñò1$.Footprint Ref 2|TableNameOnly=Ëèñò1$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Ëèñò1$.Footprint Path|TableNameOnly=Ëèñò1$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Ëèñò1$.Footprint Path 2|TableNameOnly=Ëèñò1$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
